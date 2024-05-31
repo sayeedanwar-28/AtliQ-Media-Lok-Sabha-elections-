@@ -4,7 +4,7 @@
 - Problem statement
 - Tools used
 - Data cleaning
-- Data analysis & Visualization
+- Observation
 - Recommendations
 
 ### Problem Statement  
